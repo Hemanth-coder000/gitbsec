@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 stash
 1st line:i
 2nd
+=======
+omg
+>>>>>>> d08f3d0 (sxy)
