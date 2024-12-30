@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 stash
 1st line:i
 2nd
@@ -13,3 +14,6 @@ omg
 =======
 omg
 >>>>>>> d08f3d0 (sxy)
+=======
+omg
+>>>>>>> master
